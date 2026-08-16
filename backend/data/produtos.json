@@ -8,19 +8,11 @@
     "imagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
   },
   {
-    "id": 2,
-    "nome": "PlayStation 5",
-    "descricao": "Console de videogame de última geração com gráficos avançados.",
-    "categoria": "Jogos",
-    "preco": 4199.9,
-    "imagem": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=600&q=80"
-  },
-  {
     "id": 3,
     "nome": "Headset Gamer",
     "descricao": "Headset com áudio imersivo e microfone para comunicação.",
     "categoria": "Eletrônicos",
-    "preco": 389.9,
+    "preco": 389.95,
     "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
   },
   {
@@ -30,13 +22,5 @@
     "categoria": "Jogos",
     "preco": 249.9,
     "imagem": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80"
-  },
-  {
-    "id": 5,
-    "nome": "Teste",
-    "descricao": "Notebook para jogos e produtividade com excelente desempenho.",
-    "categoria": "Eletrônicos",
-    "preco": 5299.9,
-    "imagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
   }
 ]
